@@ -1,5 +1,5 @@
 ﻿  Game_of_life.cpp
-f:\visualstudioprojects\game_of_life\game_of_life\game_of_life.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-f:\visualstudioprojects\game_of_life\game_of_life\game_of_life.cpp(277): warning C4715: 'check_cell': not all control paths return a value
-     Creating library F:\VisualStudioProjects\Game_of_Life\x64\Debug\Game_of_Life.lib and object F:\VisualStudioProjects\Game_of_Life\x64\Debug\Game_of_Life.exp
-  Game_of_Life.vcxproj -> F:\VisualStudioProjects\Game_of_Life\x64\Debug\Game_of_Life.exe
+f:\programming\repos\game_of_life\game_of_life\game_of_life.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\programming\repos\game_of_life\game_of_life\game_of_life.cpp(277): warning C4715: 'check_cell': not all control paths return a value
+     Creating library F:\Programming\Repos\Game_of_life\x64\Debug\Game_of_Life.lib and object F:\Programming\Repos\Game_of_life\x64\Debug\Game_of_Life.exp
+  Game_of_Life.vcxproj -> F:\Programming\Repos\Game_of_life\x64\Debug\Game_of_Life.exe
