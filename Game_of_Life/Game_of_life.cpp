@@ -60,7 +60,7 @@ int main(int argc, char *argv[]) {
 	SDL_Renderer *renderer = SDL_CreateRenderer(screen, -1, 0);
 	texture = SDL_CreateTexture(renderer, SDL_PIXELFORMAT_ARGB8888, SDL_TEXTUREACCESS_STREAMING, width, height);
 
-	int numtasks, rank;
+	/*int numtasks, rank;
 
 	int rc = MPI_Init(NULL, NULL);
 	if (rc != MPI_SUCCESS) {
@@ -71,7 +71,7 @@ int main(int argc, char *argv[]) {
 	MPI_Comm_rank(MPI_COMM_WORLD, &rank);
 
 	cout << "Greetings from Process: " << rank << "\n";
-	MPI_Finalize();
+	MPI_Finalize();*/
 
 	for (;;) {
 		
